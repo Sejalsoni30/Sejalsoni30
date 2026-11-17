@@ -1,37 +1,46 @@
 <div align="center">
 
-  <!-- ==================== HERO CAPSULE BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080E1A,35:0B2545,70:1E1B4B,100:00B4D8&height=220&section=header&text=SEJAL%20SONI&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20AI%20Integrations&descAlignY=60&descSize=16&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- ==================== VIBRANT HERO CAPSULE BANNER ==================== -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,30:0077B5,65:00B4D8,100:7928CA&height=240&section=header&text=SEJAL%20SONI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20AI%20Integrations&descAlignY=60&descSize=17&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- ==================== ANIMATED MULTI-LINE TYPING BANNER ==================== -->
+  <!-- ==================== ANIMATED MULTI-LINE TYPING TERMINAL ==================== -->
   <a href="https://github.com/Sejalsoni30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00B4D8&center=true&vCenter=true&width=580&lines=Full-Stack+Web+%26+MERN+Stack+Developer;Building+Intelligent+AI-Powered+Applications;Engineering+Modern%2C+Scalable+Cloud+Architectures;Turning+Real-World+Ideas+Into+Impactful+Software" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=0077B5&center=true&vCenter=true&width=640&lines=%E2%9A%A1+Full-Stack+Web+%26+MERN+Developer;%F0%9F%A7%A0+AI+Integrations+%26+Smart+Applications;%F0%9F%8C%90+Engineering+Modern+Cloud+Architectures;%F0%9F%9A%80+Turning+Real-World+Ideas+Into+Impactful+Code" alt="Typing SVG Banner" />
   </a>
 
-  <br/><br/>
+  <!-- ==================== QUICK IDENTITY PILLS ==================== -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%93_Degree-B.Tech_CSE_(SPU_Balaghat)-0077B5?style=flat-square" alt="Degree" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Core_Stack-MERN_Architecture-00B4D8?style=flat-square" alt="Core Stack" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/%F0%9F%A7%A0_AI_Focus-Gemini_%26_Cognitive_Apps-6366F1?style=flat-square" alt="AI Focus" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/%E2%9C%A8_Status-Open_for_Opportunities-00F5D4?style=flat-square" alt="Status" />
+  </p>
 
-  <!-- ==================== CALL TO ACTION BUTTONS ==================== -->
+  <!-- ==================== INTERACTIVE CALL TO ACTION BUTTONS ==================== -->
   <p align="center">
     <a href="https://sejal-portfolio-two.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=080E1A" alt="Visit Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-00B4D8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=080E1A" alt="Visit Portfolio" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://github.com/Sejalsoni30" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub_Profile-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=080E1A" alt="GitHub Profile" />
+      <img src="https://img.shields.io/badge/GitHub-View_Profile-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=080E1A" alt="GitHub Profile" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/sejal-soni-361897303/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080E1A" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080E1A" alt="LinkedIn" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="mailto:sejalsoni372@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Contact_Me-6366F1?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=080E1A" alt="Contact Me" />
+      <img src="https://img.shields.io/badge/Email-Send_Message-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080E1A" alt="Contact Me" />
     </a>
   </p>
 
   <!-- ==================== PROFILE VISITOR COUNTER ==================== -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Sejalsoni30&color=00B4D8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Sejalsoni30&color=00B4D8&style=flat-square&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
